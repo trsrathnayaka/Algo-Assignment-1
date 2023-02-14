@@ -1,0 +1,45 @@
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.exe
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.deps.json
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.runtimeconfig.json
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.dll
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.pdb
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.AssemblyInfo.cs
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.dll
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\obj\Debug\net6.0\refint\assignmentQ5.dll
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.pdb
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.genruntimeconfig.cache
+C:\Users\HP\Desktop\assignmentQ5\assignmentQ5\obj\Debug\net6.0\ref\assignmentQ5.dll
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.exe
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.deps.json
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.runtimeconfig.json
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.dll
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.pdb
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.AssemblyInfo.cs
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.dll
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\refint\assignmentQ5.dll
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.pdb
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.genruntimeconfig.cache
+C:\Users\HP\Desktop\algo assigmnet1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\ref\assignmentQ5.dll
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.exe
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.deps.json
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.runtimeconfig.json
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.dll
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\bin\Debug\net6.0\assignmentQ5.pdb
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.AssemblyInfo.cs
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.dll
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\refint\assignmentQ5.dll
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.pdb
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\assignmentQ5.genruntimeconfig.cache
+C:\Users\HP\Desktop\Algo Assignment 1\Algo Assignment 1\assignmentQ5\assignmentQ5\obj\Debug\net6.0\ref\assignmentQ5.dll
